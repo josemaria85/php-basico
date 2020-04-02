@@ -1,6 +1,6 @@
 <h1>Curso basico php</h1>
-<hr>
-<h4>Curso basico php basic hecho en open webinar se el año 2020 en abril</h4>
+
+<h4>Curso basico php basic hecho en open webinar se el año 2020 en abril</h4><hr>
 <ul>
     <li><a href="https://github.com/josemaria85/php-basico/tree/master/0.holamundo">Hola mundo</a></li>
     <li><a href="https://github.com/josemaria85/php-basico/tree/master/1.comentarios">Comentarios</a></li>
