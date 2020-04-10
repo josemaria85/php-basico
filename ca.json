@@ -1,0 +1,156 @@
+[
+    {
+        "cod":0,
+        "ca":"Andalucia",
+        "pro":[
+            "Almería",
+            "Cadíz",
+            "Córdoba",
+            "Granada",
+            "Huelva",
+            "Jaén",
+            "Málaga",
+            "Sevilla"
+        ]
+
+    },
+    {
+        "cod":1,
+        "ca":"Aragón",
+        "pro":[
+            "Teruel",
+            "Huesca",
+            "Zaragoza"
+        ],
+    },{
+        "cod":2,
+        "ca":"Asturias, Principado de Asturias",
+        "pro":[
+            "Asturias"
+        ]
+    },
+    {
+        "cod":3,
+        "ca":"Islas Baleares",
+        "pro":[
+            "Islas Baleares"
+        ]
+    },
+    {
+        "cod":4,
+        "ca":"Canarias",
+        "pro":[
+            "Las Palmas"
+        ]
+    },
+    {
+        "cod":5,
+        "ca":"Cantabria",
+        "pro":[
+            "Cantabria"
+        ]
+    },
+    {
+       " cod":6,
+        "ca":"Castilla y Leon",
+        "pro":[
+            "Ávila",
+            "Burgos",
+            "León",
+            "Palencia",
+            "Salamanca",
+            "Segovia",
+            "Soria",
+            "Valladoliz",
+            "Zamora"
+        ]
+    },
+    {
+        "cod":7,
+        "ca":"Castilla y la mancha",
+        "pro":[
+            "Albacete",
+            "Ciudad Real",
+            "Cuenca",
+            "Guadalajara",
+            "Toledo"
+        ]
+    },
+    {
+        "cod":8,
+        "ca":"Cataluña",
+        "pro":[
+            "Barcelona",
+            "Girona",
+            "Lleida",
+            "Tarragona"
+        ]
+    },
+    {
+        "cod":9,
+        "ca":"Comunidad Valenciana",
+        "pro":[
+            "Alicante",
+            "Castellon",
+            "Valencia"
+        ]
+    },{
+        "cod":10,
+        "ca":"Extremadura",
+       "pro":[
+            "Badajoz",
+            "Caceres"
+        ]
+    },{
+        "cod":11,
+        "ca":"Galicia",
+        "pro":[
+           "La Coruña",
+           "Lugo",
+           "Ourense",
+           "Pontedebra"
+        ]
+    },{
+        "cod":12,
+        "ca":"Comunidad de Madrid",
+       " pro":[
+            "Madrid"
+        ]
+    },{
+        "cod":13,
+        "ca":"Región de Murcia",
+        "pro":[
+            "Murcia"
+        ]
+    },{
+        "cod":14,
+        "ca":"Comunidad Foral De Navarra",
+        "pro":[
+            "Navarra"
+        ]
+    },{
+        "cod":15,
+        "ca":"Pais Vasco",
+        "pro":[
+            "Alava",
+            "Bizkaia",
+            "Guipuzkoa"
+        ]
+    },{
+        "cod":16,
+        "ca":"La Rioja",
+        "pro":[
+            "La Rioja"
+        ]
+    },
+    {
+        "cod":17,
+        "ca":"Ceuta",
+        "pro":[""]
+    },
+    {
+        "cod":18,
+       " ca":"Melilla",
+        "pro":[""]
+    }
+]
